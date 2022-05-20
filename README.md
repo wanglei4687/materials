@@ -9,6 +9,10 @@
 - [DATAFLOW](./system_design/dataflow.pdf)
 - [Kinesis](./system_design/whitepaper-amazon-kinesis.pdf)
 
+**books**
+
+- [Software Design for Flexibility_ How to Avoid Programming Yourself into a Corner](https://mitpress.mit.edu/books/software-design-flexibility)
+
 **Notes:**
 
 - Data Center As Database & Application as Database trigger
