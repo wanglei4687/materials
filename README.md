@@ -18,7 +18,7 @@
 - [CMU 15-721 Advanced Database Systems (spring 2020)](https://15721.courses.cs.cmu.edu/spring2020/)
 - [UZH Modern Data Analytics 2021](https://www.ifi.uzh.ch/en/dast/teaching/SMDA21.html)
 
-## Libs & Research
+## Lib & Research
 
 - [FDB: Factorised Databases](https://fdbresearch.github.io/)
 - [CrimsonDB: Zero Knobs, High Performance](https://demosubmitter.github.io/)
