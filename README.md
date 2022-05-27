@@ -21,6 +21,7 @@
 - [Stanford CS 155 Computer and Network Security](https://cs155.stanford.edu/syllabus.html)
 - [Stanford CS 110L: Safety in Systems Programming](https://web.stanford.edu/class/cs110l/)
 - [MIT 6.172 PERFORMANCE ENGINEERING OF SOFTWARE SYSTEMS](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
+- [Stanford CS 224n Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 
 ## Lib & Research
 
