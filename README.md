@@ -10,6 +10,7 @@
 ## books
 
 - [Software Design for Flexibility_ How to Avoid Programming Yourself into a Corner](https://mitpress.mit.edu/books/software-design-flexibility)
+- Google Cloud Certified Professional Cloud Network Engineer Guide : Design, implement, manage, and secure a network architecture in Google Cloud
 
 ## Courses
 
