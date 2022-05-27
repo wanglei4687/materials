@@ -17,6 +17,9 @@
 - [Stanford CS 245 Principles of Data-Intensive Systems (winter 2021)](https://web.stanford.edu/class/cs245/)
 - [CMU 15-721 Advanced Database Systems (spring 2020)](https://15721.courses.cs.cmu.edu/spring2020/)
 - [UZH Modern Data Analytics 2021](https://www.ifi.uzh.ch/en/dast/teaching/SMDA21.html)
+- [Stanford CS 155 Computer and Network Security](https://cs155.stanford.edu/syllabus.html)
+- [Stanford CS 110L: Safety in Systems Programming](https://web.stanford.edu/class/cs110l/)
+- [MIT 6.172 PERFORMANCE ENGINEERING OF SOFTWARE SYSTEMS](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
 
 ## Lib & Research
 
