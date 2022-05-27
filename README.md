@@ -30,7 +30,7 @@
 - [FDB: Factorised Databases](https://fdbresearch.github.io/)
 - [CrimsonDB: Zero Knobs, High Performance](https://demosubmitter.github.io/)
 - [Accessible and Scalable Secure Multi-Party Computation](https://multiparty.org/)
-
+- [BERKELEY ARTIFICIAL INTELLIGENCE RESEARCH](https://bair.berkeley.edu/)
 
 
 ## Notes
