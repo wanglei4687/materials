@@ -38,3 +38,4 @@
 ## Notes
 
 - Data Center As Database & Application as Database trigger
+- Agent-less Application-aware Data Protection as a Service (DPaaS) for Stateful Kubernetes Workloads
