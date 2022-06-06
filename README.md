@@ -34,6 +34,9 @@
 - [Accessible and Scalable Secure Multi-Party Computation](https://multiparty.org/)
 - [BERKELEY ARTIFICIAL INTELLIGENCE RESEARCH](https://bair.berkeley.edu/)
 
+## Question & Blog
+
+- [区块链和分布式数据库有什么本质不同？- zhihu](https://www.zhihu.com/question/264717547)
 
 ## Notes
 
