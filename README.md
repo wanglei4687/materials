@@ -22,7 +22,7 @@
 - [Stanford CS 110L: Safety in Systems Programming](https://web.stanford.edu/class/cs110l/)
 - [MIT 6.172 PERFORMANCE ENGINEERING OF SOFTWARE SYSTEMS](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
 - [Stanford CS 224n Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
-- [CS244 Stanford, Spring 2022](https://2022-cs244.github.io/)
+- [CS244 Stanford Advanced Topics in Networking, Spring 2022](https://2022-cs244.github.io/)
 - [Stanford CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 - [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/)
 - [MIT 6.s081 Operating System Engineering](https://pdos.csail.mit.edu/6.828/2021/)
