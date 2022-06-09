@@ -26,6 +26,7 @@
 - [Stanford CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 - [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/)
 - [MIT 6.s081 Operating System Engineering](https://pdos.csail.mit.edu/6.828/2021/)
+- [Harvard CS 125: Algorithms & Complexity](http://people.seas.harvard.edu/~cs125/fall16/schedule.htm)
 
 ## Lib & Research
 
@@ -33,6 +34,7 @@
 - [CrimsonDB: Zero Knobs, High Performance](https://demosubmitter.github.io/)
 - [Accessible and Scalable Secure Multi-Party Computation](https://multiparty.org/)
 - [BERKELEY ARTIFICIAL INTELLIGENCE RESEARCH](https://bair.berkeley.edu/)
+- [Matter Labs: zero-knowledge proof](https://matter-labs.io/)
 
 ## Question & Blog
 
