@@ -27,6 +27,13 @@
 - [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/)
 - [MIT 6.s081 Operating System Engineering](https://pdos.csail.mit.edu/6.828/2021/)
 - [Harvard CS 125: Algorithms & Complexity](http://people.seas.harvard.edu/~cs125/fall16/schedule.htm)
+- [MIT 6.004 Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/)
+- [MIT 6.006 Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+- [MIT 6.046j Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+- [MIT 6.042j Mathmatics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+- [MIT 18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)
+- [MIT 18.03 Differential Equations](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/)
+- [MIT 18.06 Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 
 ## Lib & Research
 
