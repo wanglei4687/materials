@@ -39,6 +39,16 @@
 - [MIT 18.05 Introduction to Probability and Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/)
 - [CMU 10703 Deep Reinforcement Learning and Control](https://www.andrew.cmu.edu/course/10-703/)
 - [CMU 15-445/645 Database System](https://15445.courses.cs.cmu.edu/fall2021/)
+- [AI-Sys Spring 2019](https://ucbrise.github.io/cs294-ai-sys-sp19/)
+- [CMU 10708 Probabilistic Graphical Models](http://www.cs.cmu.edu/~mgormley/courses/10708/schedule.html)
+- [MIT MAS.S62 CRYPTOCURRENCY ENGINEERING AND DESIGN](https://ocw.mit.edu/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/)
+- [CS 764 Topics in Database Management Systems](https://pages.cs.wisc.edu/~yxy/cs764-f20/index.html)
+- [COLUMBIA UNIVERSITY 6113 TOPICS IN DATABASE RESEARCH](https://w6113.github.io/)
+- [CMU 18447 Computer Architecture](https://www.youtube.com/c/cmu18447)
+- [Harvard cs256 Big Data systems](http://daslab.seas.harvard.edu/classes/cs265/)
+- [CMU 15-745 Optimizing Compilers](http://www.cs.cmu.edu/afs/cs/academic/class/15745-s06/web/)
+- [CS 426 Compiler Construction--Fall 2006](http://polaris.cs.uiuc.edu/~padua/cs426/)
+
 
 ## Lib & Research
 
@@ -47,6 +57,7 @@
 - [Accessible and Scalable Secure Multi-Party Computation](https://multiparty.org/)
 - [BERKELEY ARTIFICIAL INTELLIGENCE RESEARCH](https://bair.berkeley.edu/)
 - [Matter Labs: zero-knowledge proof](https://matter-labs.io/)
+- [HyPer database](http://hyper-db.de/)
 
 ## Question & Blog
 
@@ -56,11 +67,11 @@
 
 - Data Center As Database & Application as Database trigger
 - Agent-less Application-aware Data Protection as a Service (DPaaS) for Stateful Kubernetes Workloads
+- [Math Cambridge Notes](https://dec41.user.srcf.net/notes/)
 
 ## Coding Style
 
 - [makefile](https://clarkgrubb.com/makefile-style-guide)
-
 
 ## Editor config
 
