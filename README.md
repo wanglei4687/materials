@@ -37,6 +37,8 @@
 - [MIT 18.657 Mathematics of Machine Learning](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 - [MIT 18.445 Introduction to Stochastic Processes](https://ocw.mit.edu/courses/18-445-introduction-to-stochastic-processes-spring-2015/)
 - [MIT 18.05 Introduction to Probability and Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/)
+- [CMU 10703 Deep Reinforcement Learning and Control](https://www.andrew.cmu.edu/course/10-703/)
+- [CMU 15-445/645 Database System](https://15445.courses.cs.cmu.edu/fall2021/)
 
 ## Lib & Research
 
@@ -59,3 +61,7 @@
 
 - [makefile](https://clarkgrubb.com/makefile-style-guide)
 
+
+## Editor config
+
+- [Emacs config](https://github.com/wanglei4687/emacs_config)
