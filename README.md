@@ -90,6 +90,7 @@
 ## Coding Style
 
 - [makefile](https://clarkgrubb.com/makefile-style-guide)
+- [commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## Editor config
 
