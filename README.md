@@ -6,6 +6,8 @@
 - [MillWhell](./system_design/MillWhell.pdf)
 - [DATAFLOW](./system_design/dataflow.pdf)
 - [Kinesis](./system_design/whitepaper-amazon-kinesis.pdf)
+- [How to read a paper](https://web.stanford.edu/class/cs245/readings/how-to-read-a-paper.pdf)
+- [How to read a research paper](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
 
 ## books
 
