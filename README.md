@@ -76,6 +76,8 @@
   - [2021](https://www.cidrdb.org/cidr2021/index.html)
 - OSDI
   - [2021](https://www.usenix.org/conference/osdi21/technical-sessions)
+- SOSP
+  - [2021](https://sosp2021.mpi-sws.org/)
 
 ## Question & Blog
 
