@@ -88,8 +88,6 @@
 
 - [区块链和分布式数据库有什么本质不同？- zhihu](https://www.zhihu.com/question/264717547)
 - [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
-- [Kubernetes Cluster API Provider AWS](https://cluster-api-aws.sigs.k8s.io/introduction.html)
-- [Kubernetes CSI Developer Documentation](https://kubernetes-csi.github.io/docs/introduction.html)
 
 
 ## Notes
