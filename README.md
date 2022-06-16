@@ -14,6 +14,7 @@
 - [Software Design for Flexibility_ How to Avoid Programming Yourself into a Corner](https://mitpress.mit.edu/books/software-design-flexibility)
 - Google Cloud Certified Professional Cloud Network Engineer Guide : Design, implement, manage, and secure a network architecture in Google Cloud
 - Programming Kubernetes: Developing Cloud-Native Applications, Michael Hausenblas & Stefan Schimanski
+- [Programming of Life](https://www.krusch.com/books/evolution/Programming_Of_Life.pdf)
 
 ## Courses
 
@@ -85,6 +86,9 @@
 ## Question & Blog
 
 - [区块链和分布式数据库有什么本质不同？- zhihu](https://www.zhihu.com/question/264717547)
+- [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
+- [Kubernetes Cluster API Provider AWS](https://cluster-api-aws.sigs.k8s.io/introduction.html)
+- [Kubernetes CSI Developer Documentation](https://kubernetes-csi.github.io/docs/introduction.html)
 
 ## Notes
 
