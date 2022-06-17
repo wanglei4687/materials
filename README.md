@@ -1,4 +1,4 @@
-# papers
+# materials
 
 ## Papers
 
@@ -8,6 +8,7 @@
 - [Kinesis](./system_design/whitepaper-amazon-kinesis.pdf)
 - [How to read a paper](https://web.stanford.edu/class/cs245/readings/how-to-read-a-paper.pdf)
 - [How to read a research paper](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
+- [New Directions in Cloud Programming](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper16.pdf)
 
 ## books
 
@@ -62,7 +63,8 @@
 - [BERKELEY ARTIFICIAL INTELLIGENCE RESEARCH](https://bair.berkeley.edu/)
 - [Matter Labs: zero-knowledge proof](https://matter-labs.io/)
 - [HyPer database](http://hyper-db.de/)
-
+- [hydro-project](https://hydro-project.github.io/)
+- [RISE Lab](https://rise.cs.berkeley.edu/)
 
 ## Conference
 
