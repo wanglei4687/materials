@@ -72,6 +72,7 @@
   - [2021](https://www.usenix.org/conference/nsdi21/technical-sessions)
 - SIGMOD
   - [2021](https://2021.sigmod.org/index.shtml)
+  - [2022](https://2022.sigmod.org/index.shtml)
 - MLSys
   - [2021](https://proceedings.mlsys.org/paper/2021)
 - EuroSys
