@@ -53,6 +53,7 @@
 - [Harvard cs256 Big Data systems](http://daslab.seas.harvard.edu/classes/cs265/)
 - [CMU 15-745 Optimizing Compilers](http://www.cs.cmu.edu/afs/cs/academic/class/15745-s06/web/)
 - [CS 426 Compiler Construction--Fall 2006](http://polaris.cs.uiuc.edu/~padua/cs426/)
+- [MIT 16.355j SOFTWARE ENGINEERING CONCEPTS](https://ocw.mit.edu/courses/16-355j-software-engineering-concepts-fall-2005/pages/syllabus/)
 
 
 ## Lib & Research
@@ -93,19 +94,11 @@
 - [区块链和分布式数据库有什么本质不同？- zhihu](https://www.zhihu.com/question/264717547)
 - [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
 
-
 ## Notes
 
 - Data Center As Database & Application as Database trigger
 - Agent-less Application-aware Data Protection as a Service (DPaaS) for Stateful Kubernetes Workloads
 - [Math Cambridge Notes](https://dec41.user.srcf.net/notes/)
-
-
-## Coding Style
-
-- [makefile](https://clarkgrubb.com/makefile-style-guide)
-- [commits](https://www.conventionalcommits.org/en/v1.0.0/)
-
 
 ## Editor config
 
