@@ -89,9 +89,10 @@
     
 ## Question & Blog
 
-- [区块链和分布式数据库有什么本质不同？- zhihu](https://www.zhihu.com/question/264717547)
 - [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
 
+##  Venture Capital Fund
+- [https://a16zcrypto.com/](https://a16zcrypto.com/)
 
 ## Notes
 
