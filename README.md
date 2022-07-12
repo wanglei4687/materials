@@ -94,7 +94,8 @@
 - [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
 
 ##  Venture Capital Fund
-- [https://a16zcrypto.com/](https://a16zcrypto.com/)
+
+- [a16zcrypto](https://a16zcrypto.com/)
 
 ## Notes
 
