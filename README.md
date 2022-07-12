@@ -53,6 +53,7 @@
 - [Harvard cs256 Big Data systems](http://daslab.seas.harvard.edu/classes/cs265/)
 - [CMU 15-745 Optimizing Compilers](http://www.cs.cmu.edu/afs/cs/academic/class/15745-s06/web/)
 - [CS 426 Compiler Construction--Fall 2006](http://polaris.cs.uiuc.edu/~padua/cs426/)
+- [MIT 16.355j SOFTWARE ENGINEERING CONCEPTS](https://ocw.mit.edu/courses/16-355j-software-engineering-concepts-fall-2005/pages/syllabus/)
 
 
 ## Lib & Research
@@ -74,6 +75,7 @@
   - [2021](https://www.usenix.org/conference/nsdi21/technical-sessions)
 - SIGMOD
   - [2021](https://2021.sigmod.org/index.shtml)
+  - [2022](https://2022.sigmod.org/index.shtml)
 - MLSys
   - [2021](https://proceedings.mlsys.org/paper/2021)
 - EuroSys
@@ -99,13 +101,6 @@
 - Data Center As Database & Application as Database trigger
 - Agent-less Application-aware Data Protection as a Service (DPaaS) for Stateful Kubernetes Workloads
 - [Math Cambridge Notes](https://dec41.user.srcf.net/notes/)
-
-
-## Coding Style
-
-- [makefile](https://clarkgrubb.com/makefile-style-guide)
-- [commits](https://www.conventionalcommits.org/en/v1.0.0/)
-
 
 ## Editor config
 
