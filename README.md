@@ -55,6 +55,7 @@
 - [CS 426 Compiler Construction--Fall 2006](http://polaris.cs.uiuc.edu/~padua/cs426/)
 - [MIT 16.355j SOFTWARE ENGINEERING CONCEPTS](https://ocw.mit.edu/courses/16-355j-software-engineering-concepts-fall-2005/pages/syllabus/)
 - [MIT 18.226 PROBABILISTIC METHOD IN COMBINATORICS](https://ocw.mit.edu/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/)
+- [CMU 15-799 Special Topics: Self-Driving Database Management Systems](https://15799.courses.cs.cmu.edu/spring2022/schedule.html)
 
 ## Lib & Research
 
