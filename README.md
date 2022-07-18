@@ -54,7 +54,7 @@
 - [CMU 15-745 Optimizing Compilers](http://www.cs.cmu.edu/afs/cs/academic/class/15745-s06/web/)
 - [CS 426 Compiler Construction--Fall 2006](http://polaris.cs.uiuc.edu/~padua/cs426/)
 - [MIT 16.355j SOFTWARE ENGINEERING CONCEPTS](https://ocw.mit.edu/courses/16-355j-software-engineering-concepts-fall-2005/pages/syllabus/)
-
+- [MIT 18.226 PROBABILISTIC METHOD IN COMBINATORICS](https://ocw.mit.edu/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/)
 
 ## Lib & Research
 
