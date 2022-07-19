@@ -96,9 +96,11 @@
 
 ## Cloud Native
 
-[DOC](./cloud_native/README.md)
+- [DOC](./cloud_native/README.md)
 
 ## Theory of computation
+
+- [DOC](./theory_of_computation/README.md)
 
 ##  Venture Capital Fund
 
