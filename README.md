@@ -94,6 +94,12 @@
 
 - [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
 
+## Cloud Native
+
+[DOC](./cloud_native/README.md)
+
+## Theory of computation
+
 ##  Venture Capital Fund
 
 - [a16zcrypto](https://a16zcrypto.com/)
@@ -107,7 +113,3 @@
 ## Editor config
 
 - [Emacs config](https://github.com/wanglei4687/emacs_config)
-
-## Cloud Native
-
-[DOC](./cloud_native/README.md)
